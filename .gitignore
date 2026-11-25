@@ -38,3 +38,13 @@ kvmapp/kvm_system/kvm_system
 /build/
 kvmapp/server
 kvmapp/version
+.env
+*.pem
+*.key
+id_rsa*
+node_modules/
+build/
+dist/
+__pycache__/
+*.tar.gz
+*.zip
